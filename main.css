@@ -104,3 +104,21 @@ section h2 {
 
 #economy .articles article a{
     background-color: rgb(206, 206, 114)}
+
+#geek {
+    background-color: rgb(162, 130, 130);
+}
+
+#geek .articles article a {
+    background-color: #2f3640;
+}
+
+#e-sports {
+    background-color: black;
+    color: white;
+}
+
+#e-sports .articles article a{
+    background-color: white;
+    color: black;
+}
